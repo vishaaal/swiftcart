@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./Product.scss"
 
 const Product = () => {
   const [selectedImg, setSelectedImg] = useState(0)
