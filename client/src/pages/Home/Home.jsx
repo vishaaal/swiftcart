@@ -1,4 +1,5 @@
 import Categories from "../../components/Categories.jsx/Categories";
+import Contact from "../../components/Contact/Contact";
 import FeaturedProducts from "../../components/FeaturedProducts/FeaturedProducts";
 import Slider from "../../components/Slider/Slider";
 import React from "react";
@@ -10,6 +11,7 @@ const Home = () => {
       <FeaturedProducts type="featured" />
       <Categories/>
       <FeaturedProducts type="trending" />
+      <Contact/>
     </div>
   );
 };
