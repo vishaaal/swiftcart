@@ -34,7 +34,7 @@ const Navbar = () => {
           </div>
         </div>
         <div className="center">
-          <Link className="link" to="/">SWIFTCRAFT</Link>
+          <Link className="link" to="/">swiftcart</Link>
         </div>
         <div className="right">
           <div className="item">
