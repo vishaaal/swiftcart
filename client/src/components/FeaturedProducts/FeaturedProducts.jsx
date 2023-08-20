@@ -6,8 +6,8 @@ const FeaturedProducts = ({ type }) => {
   const data = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos.1972115/pexels-photo-1972115.jpeg?auto=compress&cs=tinysrgb&w=1600",
-      img2: "https://images.pexels.com/photos.1163914/pexels-photo-1163914.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      img: "https://images.pexels.com/photos/1972115/pexels-photo-1972115.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      img2: "https://images.pexels.com/photos/1163914/pexels-photo-1163914.jpeg?auto=compress&cs=tinysrgb&w=1600",
       title: "Long Sleeve Graphic T-shirt",
       isNew: true,
       oldPrice: 19,
@@ -15,7 +15,7 @@ const FeaturedProducts = ({ type }) => {
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos.1759622/pexels-photo-1759622.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      img: "https://images.pexels.com/photos/1759622/pexels-photo-1759622.jpeg?auto=compress&cs=tinysrgb&w=1600",
       title: "Coat",
       isNew: true,
       oldPrice: 19,
@@ -23,7 +23,7 @@ const FeaturedProducts = ({ type }) => {
     },
     {
       id: 1,
-      img: "https://images.pexels.com/photos.1972115/pexels-photo-1972115.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      img: "https://images.pexels.com/photos/1972115/pexels-photo-1972115.jpeg?auto=compress&cs=tinysrgb&w=1600",
       title: "Skirt",
       isNew: true,
       oldPrice: 19,
@@ -31,7 +31,7 @@ const FeaturedProducts = ({ type }) => {
     },
     {
       id: 4,
-      img: "https://images.pexels.com/photos.2065200/pexels-photo-2065200.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      img: "https://images.pexels.com/photos/2065200/pexels-photo-2065200.jpeg?auto=compress&cs=tinysrgb&w=1600",
       title: "Hat",
       isNew: true,
       oldPrice: 19,
