@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../Card/Card";
-import "./FeaturedProucts.scss"
+import "./FeaturedProucts.scss";
 import useFetch from "../../hooks/useFetch";
 
 const FeaturedProducts = ({ type }) => {
@@ -13,11 +13,10 @@ const FeaturedProducts = ({ type }) => {
       <div className="top">
         <h1>{type} products</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
-          suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-          lacus vel facilisis labore et dolore magna aliqua. Quis ipsum
-          suspendisse ultrices gravida. Risus commodo viverra maecenas.
+          Featured Selections: Discover our curated collection of the week's
+          most sought-after fashion pieces. From timeless classics to the latest
+          trends, these standout items are a testament to impeccable taste and
+          craftsmanship. Elevate your wardrobe with SwiftCraft's finest!
         </p>
       </div>
       <div className="bottom">
