@@ -15,9 +15,6 @@
     "title": {
       "type": "string"
     },
-    "desc": {
-      "type": "text"
-    },
     "img": {
       "type": "media",
       "multiple": false,
@@ -42,6 +39,9 @@
     },
     "price": {
       "type": "decimal"
+    },
+    "desc": {
+      "type": "text"
     },
     "isNew": {
       "type": "boolean",
