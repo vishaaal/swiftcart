@@ -27,13 +27,10 @@ const Product = () => {
         </div>
       </div>
       <div className="right">
-        <h1>Title</h1>
-        <span>₹199</span>
+        <h1>{data?.attributes?.title}</h1>
+        <span>₹{data?.attributes?.price}</span>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates
-          laboriosam voluptatibus, deleniti velit maiores, sequi repellendus in
-          odit dolores tenetur cupiditate ullam ratione doloremque quae expedita
-          exercitationem quas commodi
+          {data?.attributes?.desc}
         </p>
         <div className="quantity">
           <button
