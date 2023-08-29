@@ -1,6 +1,6 @@
-# SwiftCraft E-commerce Web App
+# SwiftCart E-commerce Web App
 
-Welcome to SwiftCraft, a modern and minimalistic full-stack e-commerce platform. Designed and implemented using ReactJs, SCSS, React Redux, and Strapi, it promises a seamless and intuitive shopping experience.
+Welcome to SwiftCart, a modern and minimalistic full-stack e-commerce platform. Designed and implemented using ReactJs, SCSS, React Redux, and Strapi, it promises a seamless and intuitive shopping experience.
 
 ## Features
 
@@ -23,4 +23,4 @@ Our project has several dependencies
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/SwiftCraft.git
+   git clone https://github.com/vishaaal/SwiftCart.git
