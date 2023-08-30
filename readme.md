@@ -32,4 +32,3 @@ Our project has several dependencies
 
 
 
-![SWIFTCART](https://github.com/vishaaal/swiftcart/assets/69189572/141ffa29-4675-413b-9002-5314e1ace850)
