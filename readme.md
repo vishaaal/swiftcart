@@ -21,14 +21,7 @@ Our project has several dependencies
 - Redux for state management
 - Stripe for payment functionalities
 - Axios for API requests
-- And many more...
-
-1. **Clone the repository**:
+  
+ **Clone the repository**:
    ```bash
-   
-
-
-
-
-
-
+   git clone https://github.com/vishaaal/SwiftCart.git
