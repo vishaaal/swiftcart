@@ -1,4 +1,6 @@
 # SwiftCart E-commerce Web App
+![SWIFTCART2](https://github.com/vishaaal/swiftcart/assets/69189572/2d5cf913-0176-47e1-87c9-9898c7d6fd40)
+
 
 Welcome to SwiftCart, a modern and minimalistic full-stack e-commerce platform. Designed and implemented using ReactJs, SCSS, React Redux, and Strapi, it promises a seamless and intuitive shopping experience.
 
@@ -23,4 +25,11 @@ Our project has several dependencies
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vishaaal/SwiftCart.git
+   
+
+
+
+
+
+
+![SWIFTCART](https://github.com/vishaaal/swiftcart/assets/69189572/141ffa29-4675-413b-9002-5314e1ace850)
